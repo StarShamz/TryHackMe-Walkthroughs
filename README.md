@@ -33,4 +33,4 @@ Please attempt rooms yourself before reading walkthroughs!
 
 ---
 
-*Profile: [TryHackMe](https://tryhackme.com](https://tryhackme.com/p/laytontobin)*
+*Profile: [TryHackMe](https://tryhackme.com/p/laytontobin)*
